@@ -1,1 +1,1 @@
-# 42-C-Bootcamp-and-algos
+# 42-C-bootcamp-and-algos
