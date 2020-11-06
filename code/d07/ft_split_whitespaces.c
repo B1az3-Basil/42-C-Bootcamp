@@ -59,8 +59,3 @@ char    **ft_split_whitespaces(char *str){
     }
     return str_2d;
 }
-
-
-void    main(int argc, char **argv){
-    ft_split_whitespaces("hello world");
-}
