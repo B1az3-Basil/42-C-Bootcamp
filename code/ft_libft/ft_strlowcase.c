@@ -1,4 +1,4 @@
-char    *ft_strupcase(char *str) { 
+char    *ft_strlowcase(char *str) { 
     int i;
 
     i = 0;
